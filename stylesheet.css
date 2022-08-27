@@ -1,0 +1,266 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: #393E46;
+}
+
+.navbar {
+  margin-top: 10px;
+  width: 100%;
+  height: 40px;
+  background-color: #444F5A;
+  border-radius: 10px;
+}
+
+.navbar ul li {
+  margin-left: 600px;
+  margin-right: 100px;
+}
+
+.navbar ul li a {
+  font-size: 23px;
+  margin-right: 7px;
+  margin-left: 7px;
+  float: right;
+  color: black;
+  font-size: 22px;
+  font-family: Dubai;
+  text-decoration: none;
+  padding: 3px;
+}
+
+.navbar ul li a:hover {
+  color: white;
+  border-radius: 10px;
+  box-shadow: 1px 1px #2C3333;
+  background-color: #393E46;
+}
+
+.div-2 {
+  position: absolute;
+  background-image: url('images1.0\image-8.jpg');
+  width: 100%;
+  height: 500px;
+  background-size: cover;
+  background-position: center;
+  }
+
+  .icon-1 {
+    height: 25px;
+    width: 25px;
+    margin-right: 7px;
+    margin-left: 7px;
+    float: right;
+  }
+
+  .end {
+    text-align: bottom;
+    margin-top: -10px;
+    margin-bottom: 30px;
+    margin-left: 200px;
+    margin-right: 800px;
+    width: 100%;
+    height: 25px;
+  }
+
+  .h1-1 {
+    position: relative;
+    color: #ffffff;
+    margin-top: 120px;
+    font-size: 50px;
+    text-align: center;
+    font-family: Verdana, Sans-serif;
+  }
+
+  .h1-2 {
+    font-family: Verdana, Sans-serif;
+    color: #ffffff;
+    margin-top: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .btn-1 {
+    text-align: center;
+    height: 30px;
+    width: 80px;
+    margin-left: 600px;
+    margin-top: 30px;
+    font-size: 20px;
+    font-family: Open Sans;
+    border-radius: 3px;
+    border: 2px solid #607EAA;
+    background-color: #F7ECDE;
+  }
+
+  .div-2 a {
+    text-decoration: none;
+  }
+
+  .btn-1:hover {
+    color: #F7ECDE;
+    background-color: #2B4865;
+  }
+
+  .div-3 {
+    position: relative;
+    width: 100%;
+    height: 600px;
+  }
+
+  .p-1 {
+    margin-left: 50px;
+    width: 40%;
+    font-weight: bold;
+    color: #E3FDFD;
+  }
+
+  .h1-3 {
+    margin-left: 50px;
+    width: 40%;
+    font-weight: bold;
+    color: #FFE2E2;
+    margin-top: 600px;
+    font-family: Verdana, Sans-serif;
+  }
+
+  .div-4 {}
+
+  .img-1 {
+    height: 500px;
+    margin-top: -600px;
+    border-radius: 15px;
+    float: right;
+    width: 35%;
+    margin-right: 100px;
+  }
+
+  .hr-1 {
+    color: white;
+    height: 1px;
+    border: none;
+  }
+
+  .img-2 {
+    border-radius: 30px;
+    height: 250px;
+    width: 300px;
+    padding: 30px 50px 0 50px;
+  }
+
+  .card-1 {
+    box-shadow: 4px 4px black;
+    background-color: #E4F9F5;
+    margin: 50px 50px 50px 19%;
+    height: 400px;
+    width: 400px;
+  }
+
+  .card-1:hover {
+    box-shadow: 4px #DBE2EF;
+  }
+
+  .card-2 {
+    box-shadow: 4px 4px black;
+    background-color: #FFC7C7;
+    margin: 48px 20% 50px 50px;
+    height: 400px;
+    width: 400px;
+    float: right;
+    margin-top: -450px;
+  }
+}
+
+.card-2:hover {
+  box-shadow: 4px 4px #DBE2EF;
+  color: #E4F9F5;
+}
+
+.p-2 {
+  margin-top: 10px;
+  color: #355C7D;
+  font-weight: bold;
+  text-align: center;
+}
+
+.p-3 {
+  margin-top: 10px;
+  color: #E3FDFD;
+  font-weight: bold;
+  text-align: center;
+}
+
+.p-4 {
+  color: #E3FDFD;
+  font-weight: bold;
+  text-align: center;
+}
+
+.div-5 {
+  float: right;
+  margin-top: -350px;
+  width: 35%;
+  margin-left: 500px;
+  margin-right: 70px;
+}
+
+.btn-2 {
+  height: 30px;
+  width: 80px;
+  margin-left: 145px;
+  margin-top: 15px;
+  font-size: 20px;
+  font-family: Open Sans;
+  border-radius: 3px;
+  border: 2px solid #607EAA;
+  background-color: #F7ECDE;
+}
+
+.btn-2:hover {
+  color: #F7ECDE;
+  background-color: #2B4865;
+}
+
+.iframe {
+  margin: 100px;
+}
+
+.h1-5 {
+  float: right;
+  color: #FFE2E2;
+  margin: 105px 250px 30px 70px;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Verdana, Sans-serif;
+}
+
+.hr-4 {
+  color: black;
+  ;
+}
+
+.h-6 {
+  margin-bottom: 30px;
+  font-weight: bold;
+  font-family: Verdana, Sans-serif;
+}
+
+.p-6 {
+  font-family: Verdana, Sans-serif;
+}
+
+.dd {
+  width: 350px;
+  margin-left: 60px;
+  padding-top: 60px;
+}
+
+.footer {
+  height: 300px;
+  width: 100%;
+  color:;
+  background-color: #CFD2CF;
+}
